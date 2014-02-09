@@ -1,0 +1,18 @@
+#test{
+    max-width: 60%;
+    margin: auto;
+    background-color: #d3d3d3;
+}
+body{
+    background-color: #333333;
+    white-space: pre;
+}
+div{
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+p{
+    margin: 0px;
+    margin-top: 16px;
+}
